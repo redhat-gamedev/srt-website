@@ -28,14 +28,14 @@ heavier and pulls you deeper into the gravity well - where everyone else with
 more guns and more gear already is.
 
 ## Gameplay and Art References
-Combat similar to [Star Control: Origins](https://en.wikipedia.org/wiki/Star_Control:_Origins)
-Technology and battle tactics inspired by [Firefly's Reavers](https://en.wikipedia.org/wiki/Reaver_(Firefly)
-Minimal art style to start inspired by [Radius Raid](https://js13kgames.com/games/radius-raid/index.html)
-Also art style inspired by [Warships](https://news.blizzard.com/en-gb/starcraft2/10058311/arcade-highlight-warships)
+* Combat similar to [Star Control: Origins](https://en.wikipedia.org/wiki/Star_Control:_Origins)
+* Technology and battle tactics inspired by [Firefly's Reavers](https://en.wikipedia.org/wiki/Reaver_(Firefly))
+* Minimal art style to start inspired by [Radius Raid](https://js13kgames.com/games/radius-raid/index.html)
+* Art style also inspired by [Warships](https://news.blizzard.com/en-gb/starcraft2/10058311/arcade-highlight-warships)
 
 ## Key Game Design Features
 * Infinite scale universe grows as more players join the game
-* "real time" (not turn-based)
+* "Real time" (not turn-based)
 * Long term persistent state
 * Click and command rather than twin-stick
 * 2D Top Down
@@ -49,7 +49,7 @@ Also art style inspired by [Warships](https://news.blizzard.com/en-gb/starcraft2
 2022 update - based on team conversation here is the updated draft components architecture:
 ![](https://raw.githubusercontent.com/redhat-gamedev/srt-multiplayer-game-design/master/srt-arch-draft2022-02-08.png)
 
-Original design components list is below:
+### Original design components list is below:
 * account service
   * ties an "identity" to a player (game stuff)
 * website
